@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="LubBqCAFF0eY_6Dfj3jN">
-    <mxGraphModel dx="780" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-k_JeJES80LiwhuOnx99-6" value="CU 6: Consulter le Tableau de bord" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277.5" y="830" width="180" height="80" as="geometry" />
+          <mxGeometry x="277.5" y="840" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-k_JeJES80LiwhuOnx99-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-k_JeJES80LiwhuOnx99-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N3wpJCkTqi9ZPWj0Lnjl-1" value="Consulter les badges récoltés" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="710" width="175" height="80" as="geometry" />
+          <mxGeometry x="280" y="680" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N3wpJCkTqi9ZPWj0Lnjl-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" target="N3wpJCkTqi9ZPWj0Lnjl-1" edge="1">
           <mxGeometry relative="1" as="geometry">
