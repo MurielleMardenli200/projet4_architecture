@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="LubBqCAFF0eY_6Dfj3jN">
-    <mxGraphModel dx="1211" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
           <mxGeometry x="30" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="220" width="510" height="610" as="geometry" />
+          <mxGeometry x="160" y="220" width="510" height="550" as="geometry" />
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-5" value="PostgreSQL" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="400" width="30" height="60" as="geometry" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yzMuyjXtBNfQkwznEPzL-2" value="CU 4: Consulter le Tableau de bord" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="630" width="160" height="80" as="geometry" />
+          <mxGeometry x="230" y="670" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yzMuyjXtBNfQkwznEPzL-3" value="Administrateur&amp;nbsp;&lt;br&gt;sur le site Web" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="540" width="30" height="60" as="geometry" />
@@ -94,13 +94,9 @@
             <mxPoint x="280" y="750.0000000000002" as="targetPoint" />
             <Array as="points">
               <mxPoint x="120" y="570" />
-              <mxPoint x="120" y="680" />
-              <mxPoint x="290" y="680" />
+              <mxPoint x="120" y="710" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yzMuyjXtBNfQkwznEPzL-12" value="CU 5: Consulter les ressources externes&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="730" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5YzyJ8ezjhoMxvWEpESo-6" value="Modifier son profil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="120" height="80" as="geometry" />
@@ -108,7 +104,8 @@
         <mxCell id="5YzyJ8ezjhoMxvWEpESo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="yzMuyjXtBNfQkwznEPzL-12" target="hrwhk7hBxuppIEL_lkO9-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="760" />
+              <mxPoint x="480" y="660" />
+              <mxPoint x="200" y="660" />
               <mxPoint x="200" y="430" />
             </Array>
           </mxGeometry>
@@ -116,7 +113,8 @@
         <mxCell id="AIQQJyETX8_utG32UmTs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="yzMuyjXtBNfQkwznEPzL-12" target="bE1gFKcx4u8gwo7U3hTT-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="770" />
+              <mxPoint x="480" y="660" />
+              <mxPoint x="610" y="660" />
               <mxPoint x="610" y="430" />
             </Array>
           </mxGeometry>
@@ -124,10 +122,13 @@
         <mxCell id="AIQQJyETX8_utG32UmTs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="yzMuyjXtBNfQkwznEPzL-2" target="bE1gFKcx4u8gwo7U3hTT-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="670" />
+              <mxPoint x="610" y="720" />
               <mxPoint x="610" y="430" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yzMuyjXtBNfQkwznEPzL-12" value="CU 5: Consulter les ressources externes&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="630" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
