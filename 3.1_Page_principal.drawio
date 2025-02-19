@@ -19,7 +19,7 @@
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="bE1gFKcx4u8gwo7U3hTT-6" target="bE1gFKcx4u8gwo7U3hTT-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="240" />
+              <mxPoint x="490" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -29,22 +29,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-6" value="CU 1: Accéder aux paramètres de compte" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="320" width="180" height="80" as="geometry" />
+          <mxGeometry x="390" y="320" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-8" value="CU 2: Réaliser un prélèvement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="450" width="180" height="80" as="geometry" />
+          <mxGeometry x="390" y="450" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-9" value="Consulter les nouvelles liées à FLOW" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="570" width="180" height="80" as="geometry" />
+          <mxGeometry x="390" y="570" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-10" value="Modifier son profil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="hrwhk7hBxuppIEL_lkO9-1" target="bE1gFKcx4u8gwo7U3hTT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="hrwhk7hBxuppIEL_lkO9-1" target="bE1gFKcx4u8gwo7U3hTT-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="430" />
+              <mxPoint x="250" y="440" />
+              <mxPoint x="480" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bE1gFKcx4u8gwo7U3hTT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="hrwhk7hBxuppIEL_lkO9-1" target="bE1gFKcx4u8gwo7U3hTT-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-k_JeJES80LiwhuOnx99-6" value="CU 6: Consulter le Tableau de bord" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277.5" y="840" width="180" height="80" as="geometry" />
+          <mxGeometry x="385" y="840" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-k_JeJES80LiwhuOnx99-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-k_JeJES80LiwhuOnx99-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -91,13 +97,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N3wpJCkTqi9ZPWj0Lnjl-1" value="Consulter les badges récoltés" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="680" width="175" height="60" as="geometry" />
+          <mxGeometry x="390" y="680" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N3wpJCkTqi9ZPWj0Lnjl-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" target="N3wpJCkTqi9ZPWj0Lnjl-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="430" as="sourcePoint" />
             <mxPoint x="280" y="720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U2njh7aca1fFkZXuwoPa-1" value="CU 3.1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
